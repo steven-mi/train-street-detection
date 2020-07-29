@@ -1,0 +1,6 @@
+tensorflow 
+tensorboard
+pandas
+matplotlib
+seaborn
+jupyter
